@@ -1,0 +1,12 @@
+# Исходный файл
+InputFile: input.txt
+# Файл с языками
+LangFile: langs.txt
+# Файл статуса
+StatusFile: status.txt
+# Папка для текстового файла
+OutputFileFolder: Output
+# Папка для изображений
+OutputImageFolder: Output/img
+# Папка для страниц
+OutputPagesFolder: Output/pages

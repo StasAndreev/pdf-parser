@@ -1,0 +1,10 @@
+*.bak
+*.zip
+~$*.docx
+~*.tmp
+.idea
+/log/
+venv
+.venv
+__pycache__
+$temp

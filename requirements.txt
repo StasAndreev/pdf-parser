@@ -1,0 +1,8 @@
+torch==2.3.0
+torchvision==0.18.0
+torchaudio==2.3.0
+marker-pdf==0.2.13
+progressbar2==4.4.2
+pypdf4==1.27.0
+pymupdf==1.24.5
+pyinstaller==6.6.0
